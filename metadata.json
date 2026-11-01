@@ -1,0 +1,6 @@
+{
+  "name": "Python Compiler",
+  "description": "AI Practical Code Library with one-click copy for Python practical programs and common files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
